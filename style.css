@@ -1,0 +1,26 @@
+
+body{
+
+    background-color: rgba(220, 235, 250, 0.746);
+}
+.heading{
+    display: block;
+    text-align: center;
+    justify-content: space-between;
+
+}
+img{
+    width:600px;
+    height: 500px;
+    margin-left: 25%;
+}
+.timeline{
+    max-width: 700px;
+    display: block;
+    /* text-align: center;*/
+     margin-left: 25%;
+     justify-content: space-between;
+     margin-top: 20px;
+   /* align-items: center;*/
+    
+}
