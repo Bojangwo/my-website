@@ -1,7 +1,7 @@
 
 body{
 
-    background-color: rgba(220, 235, 250, 0.746);
+    background-color: rgb(136, 172, 136)
 }
 .heading{
     display: block;
@@ -11,8 +11,13 @@ body{
 }
 img{
     width:600px;
-    height: 500px;
-    margin-left: 25%;
+   /* height: 500px;
+    margin-left: 25%;*/
+    height: inherit;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .timeline{
     max-width: 700px;
@@ -23,4 +28,7 @@ img{
      margin-top: 20px;
    /* align-items: center;*/
     
+}
+li{
+    margin-top: 20px;
 }
